@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sai Pranay Gandla 👋</h1>
 <h3 align="center">VLSI | RTL Design | Digital Design | Semiconductor Enthusiast</h3>
 <p align = "center">
-    <a href="www.linkedin.com/in/sai-pranay-gandla">
+    <a href="https://www.linkedin.com/in/sai-pranay-gandla">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:saipranay555.gandla@gmail.com">
